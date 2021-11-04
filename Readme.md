@@ -1,10 +1,10 @@
-#ECM1414 lossless compression project
+# ECM1414 lossless compression project
 
-###Prior to run the python program, make sure you have:
+### Prior to run the python program, make sure you have:
 
 Python 3.9+
 
-####install the following module:
+#### install the following module:
 
 json
 
@@ -12,35 +12,35 @@ BitArray
 
 use the command: "pip install package_name" in the terminal to install packages.
 
-##Instruction:
+## Instruction:
 
-###Warning! This program only support 
+### Warning! This program only support 
 
 '.txt' file written in unicode 'utf-8' for compression and
 
 '.bin' file for decompression
 
-###Step 1:
+### Step 1:
 
 Put the file in '.txt' format in the same folder as the 'myHuffman.py'
 
-###Step 2:
+### Step 2:
 
 Open 'myHuffman.py' with any preferred python IDE with version 3.9+
 
-###Step 3:
+### Step 3:
 
 To compress a file, enter the full of the file you put in the same folder earlier.
 
-###Step 4:
+### Step 4:
 
 To decompress a file, enter the full of the file but with the '.bin' extension.
 
-###Step 5:
+### Step 5:
 
 To exit the program, enter '0' in the menu interface.
 
-###footnote:
+### footnote:
 
 Watch video for a visualisation on the instruction.
 
